@@ -1,0 +1,16 @@
+body {
+  background-color: whitesmoke;
+}
+#intro {
+  background-color: wheat;
+  size: 30px auto;
+}
+h3 {
+  color: gray;
+}
+img {
+  size: 100px 200px;
+}
+p {
+  color: gray;
+}
